@@ -1,0 +1,63 @@
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\Genetic Algorithm Character Recognition.vbprojResolveAssemblyReference.cache
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\GeneticAlgorithm.FormAbout.resources
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\GeneticAlgorithm.FormDatabase.resources
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\GeneticAlgorithm.FormDetection.resources
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\GeneticAlgorithm.FormInput.resources
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\GeneticAlgorithm.FormUtama.resources
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\GeneticAlgorithm.Resources.resources
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\Genetic Algorithm Character Recognition.vbproj.GenerateResource.Cache
+D:\Current Project\Judah Suryaputra Project Finish\bin\Debug\Database.sdf
+D:\Current Project\Judah Suryaputra Project Finish\bin\Debug\Face Problem Detection.exe.config
+D:\Current Project\Judah Suryaputra Project Finish\bin\Debug\Face Problem Detection.exe
+D:\Current Project\Judah Suryaputra Project Finish\bin\Debug\Face Problem Detection.pdb
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\Face Problem Detection.exe
+D:\Current Project\Judah Suryaputra Project Finish\obj\Debug\Face Problem Detection.pdb
+D:\Current Project\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.exe.config
+D:\Current Project\Judah Suryaputra\bin\Debug\Database.sdf
+D:\Current Project\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.exe
+D:\Current Project\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.pdb
+D:\Current Project\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.vbprojResolveAssemblyReference.cache
+D:\Current Project\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormAbout.resources
+D:\Current Project\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormDatabase.resources
+D:\Current Project\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormDetection.resources
+D:\Current Project\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormInput.resources
+D:\Current Project\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormUtama.resources
+D:\Current Project\Judah Suryaputra\obj\Debug\GeneticAlgorithm.Resources.resources
+D:\Current Project\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.vbproj.GenerateResource.Cache
+D:\Current Project\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.exe
+D:\Current Project\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.pdb
+D:\Current Project\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormPreview.resources
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\bin\Debug\Database.sdf
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.exe.config
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.exe
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.pdb
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.vbprojResolveAssemblyReference.cache
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormAbout.resources
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormDatabase.resources
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormDetection.resources
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormInput.resources
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormUtama.resources
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormPreview.resources
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\GeneticAlgorithm.Resources.resources
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.vbproj.GenerateResource.Cache
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.vbproj.CoreCompileInputs.cache
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.exe
+C:\Users\Judah Suryaputra\Downloads\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.pdb
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\bin\Debug\Database.sdf
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.exe.config
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.exe
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\bin\Debug\Genetic Algorithm Character Recognition.pdb
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.vbprojResolveAssemblyReference.cache
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormAbout.resources
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormDatabase.resources
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormDetection.resources
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormInput.resources
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormUtama.resources
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\GeneticAlgorithm.FormPreview.resources
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\GeneticAlgorithm.Resources.resources
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.vbproj.GenerateResource.Cache
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.vbproj.CoreCompileInputs.cache
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.exe
+C:\Users\Judah Suryaputra\Desktop\Judah Suryaputra\obj\Debug\Genetic Algorithm Character Recognition.pdb

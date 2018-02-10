@@ -1,0 +1,9 @@
+D:\Current Project\Judah Suryaputra Project.ConvertedToVBNet\obj\Debug\Genetic Algorithm Character Recognition.Converted.vbprojResolveAssemblyReference.cache
+D:\Current Project\Judah Suryaputra Project.ConvertedToVBNet\obj\Debug\GeneticAlgorithm.FormAbout.resources
+D:\Current Project\Judah Suryaputra Project.ConvertedToVBNet\obj\Debug\GeneticAlgorithm.FormDatabase.resources
+D:\Current Project\Judah Suryaputra Project.ConvertedToVBNet\obj\Debug\GeneticAlgorithm.FormDetection.resources
+D:\Current Project\Judah Suryaputra Project.ConvertedToVBNet\obj\Debug\GeneticAlgorithm.FormInput.resources
+D:\Current Project\Judah Suryaputra Project.ConvertedToVBNet\obj\Debug\GeneticAlgorithm.FormUtama.resources
+D:\Current Project\Judah Suryaputra Project.ConvertedToVBNet\obj\Debug\GeneticAlgorithm.Resources.resources
+D:\Current Project\Judah Suryaputra Project.ConvertedToVBNet\obj\Debug\Genetic Algorithm Character Recognition.Converted.vbproj.GenerateResource.Cache
+D:\Current Project\Judah Suryaputra Project Finish\bin\Debug\Face Problem Detection.exe.config
